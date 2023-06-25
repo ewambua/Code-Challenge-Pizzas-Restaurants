@@ -55,7 +55,7 @@ D. Authors Info
 
 ### Licence
 
-[MIT License]
+[MIT License](https://github.com/ewambua/Code-Challenge-Pizzas-Restaurants/blob/main/LICENSE)
 
 
 ### Authors Info
